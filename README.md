@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hima Susan</h1>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">I'm a Wife, Mother, Developer, Creator, and Mentor!!</h2><a id="user-content-im-a-wife-mother-developer-creator-and-mentor" class="anchor" aria-label="Permalink: I'm a Wife, Mother, Developer, Creator, and Mentor!!" href="#im-a-wife-mother-developer-creator-and-mentor">
- <img align="right" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif"/>
+<div class="markdown-heading" dir="auto"><a>
+ <img align="right" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif"  width="400" height="250" />
 </a></div>
 
 <h3 align="center">I'm a devoted mother, a supportive wife, and a passionate full-stack developer thriving in the ever-evolving world of technology. Balancing family life with coding adventures, I find joy in learning new tech and improving my skills. This journey is not just about developing software but also about growing with the community and contributing to making technology accessible and beneficial for everyone. Let's connect and learn from each other!</h3>
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **C#, .Net, Angular**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **hima.susan@gmail.com**
 
