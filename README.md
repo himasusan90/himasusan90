@@ -3,7 +3,7 @@
  <img align="right" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif"  width="400" height="250" />
 </a></div>
 
-<h3 align="center">I'm a devoted mother, a supportive wife, and a passionate full-stack developer thriving in the ever-evolving world of technology. Balancing family life with coding adventures, I find joy in learning new tech and improving my skills. This journey is not just about developing software but also about growing with the community and contributing to making technology accessible and beneficial for everyone. Let's connect and learn from each other!</h3>
+<h3 align="center">I'm a mother, wife and a passionate full-stack developer thriving in the ever-evolving world of technology. Balancing family life with coding adventures, I find joy in learning new tech and improving my skills. This journey is not just about developing software but also about growing with the community and contributing to making technology accessible and beneficial for everyone. Let's connect and learn from each other!</h3>
 
 - 🌱 I’m currently learning **.Net core,Datastructure & Algorithm, Angular**
 
